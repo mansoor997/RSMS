@@ -52,7 +52,7 @@ font-family: 'Noto Kufi Arabic', sans-serif;
         <header id="topnav" class="defaultscroll sticky">
             <div class="container">
                 <!-- Logo container-->
-                <a class="logo" href="index.html">
+                <a class="logo" href="{{ route('login') }}">
                     <img src="{{ asset('HOME_PAGE/images/amen2.png') }}" height="50" class="logo-light-mode" alt="">
                  </a>
                 <div class="buy-button">
