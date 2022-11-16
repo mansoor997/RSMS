@@ -78,11 +78,11 @@ font-family: 'Noto Kufi Arabic', sans-serif;
                 <div id="  ArFont">
                     <!-- Navigation Menu-->   
                     <ul class="navigation-menu ArFont">
-                        <li><a href="index.html"  >الرئسية</a></li>
+                        <li><a href="{{ route('login') }}"  >الرئسية</a></li>
                    
         
                         <li class="ArFont">
-                            <a href="javascript:void(0)"> النظام</a> 
+                            <a href="javascript:void(0)">مميزات النظام</a> 
                            
                         </li>
 
