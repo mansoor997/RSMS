@@ -82,7 +82,7 @@ font-family: 'Noto Kufi Arabic', sans-serif;
                    
         
                         <li class="ArFont">
-                            <a href="javascript:void(0)">مميزات النظام</a> 
+                            <a href="javascript:void(0)"> النظام</a> 
                            
                         </li>
 
